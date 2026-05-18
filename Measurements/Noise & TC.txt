@@ -1,0 +1,19 @@
+100uA-Range
+    Noise:  8,2nA pk2pk, 0,57nA rms (Datron 1281)
+    TC: 0,707nA/°C (Datron 1281)
+
+1mA-Range
+    Noise:  7,0nA pk2pk, 1.15nA rms (Datron 1281)
+    TC: 0,072nA/°C (Datron 1281)
+
+10mA-Range
+    Noise:  80,0nA pk2pk, 16,2nA rms (Datron 1281)
+    TC: -22,8nA/°C (Datron 1281)
+
+100mA-Range
+    Noise:  0,5µA pk2pk, 0,12µA rms (Datron 1281)
+    TC: 261,3nA/°C (Datron 1281)
+
+1A-Range
+    Noise:  6,0µA pk2pk, 1,1µA rms (Datron 1281)
+    TC: 0,34µA/°C (Datron 1281)
