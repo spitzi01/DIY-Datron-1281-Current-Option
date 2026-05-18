@@ -1,0 +1,286 @@
+(footprint "SHDR4W64P0X254_1X4_1016X580X1170P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "22-29-2041")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7304ad18-2200-4f15-9361-edc351bf28ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "PL52"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b9c48d84-4e05-400e-b83d-9b99deac4cff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.molex.com/pdm_docs/sd/022292041_sd.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad39d3ce-9124-4137-b671-b787e5b3603d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Molex KK Series, Series Number 6410, 2.54mm Pitch 4 Way 1 Row Straight PCB Header, Solder Termination, 4A"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1ca6be8-5911-41cc-a94c-f64f80d979ff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "11.7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f266230-0088-4050-93b4-8cfa08a5598f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "538-22-29-2041"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6391f34-7730-47c1-961d-fef1ec76cda0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/22-29-2041?qs=5gBG3L055oNDaK%2F1xU2A7w%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c396c669-e17d-4988-b9cf-2756557d8ecc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4aae98c6-06a3-43b9-8624-5e7b281b7014")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "22-29-2041"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e49de7a-f4f9-46f5-862d-3adac0234da7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -8.89 -2.92)
+		(end 1.27 -2.92)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "504494af-74fd-4208-bdff-4f2b351df7b6")
+	)
+	(fp_line
+		(start -8.89 2.88)
+		(end -8.89 -2.92)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77fd1296-e8a8-40de-92b9-ccc98da92715")
+	)
+	(fp_line
+		(start 0 2.88)
+		(end -8.89 2.88)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90078682-eb74-4a78-a41e-51b479d19177")
+	)
+	(fp_line
+		(start 1.27 -2.92)
+		(end 1.27 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa90ac77-dac9-4756-a723-35a3b0a1e168")
+	)
+	(fp_line
+		(start -9.14 -3.17)
+		(end 1.52 -3.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "860c4014-2bc4-4efd-bf72-73ed6e86eaac")
+	)
+	(fp_line
+		(start -9.14 3.13)
+		(end -9.14 -3.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75f28b95-a31f-4726-8220-d597376b6231")
+	)
+	(fp_line
+		(start 1.52 -3.17)
+		(end 1.52 3.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fbc95717-9615-4f5a-9348-f3931d635cf5")
+	)
+	(fp_line
+		(start 1.52 3.13)
+		(end -9.14 3.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f636d0f2-682c-447f-b70b-8b59f9960926")
+	)
+	(fp_line
+		(start -8.89 -2.92)
+		(end 1.27 -2.92)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8074134d-066e-45c8-8041-cb43fdae4715")
+	)
+	(fp_line
+		(start -8.89 2.88)
+		(end -8.89 -2.92)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "81b289a3-ff3f-4bbd-8245-4a30aca4bcc4")
+	)
+	(fp_line
+		(start 1.27 -2.92)
+		(end 1.27 2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14fe64e3-ba47-48b7-9870-ce3bdc78bf69")
+	)
+	(fp_line
+		(start 1.27 2.88)
+		(end -8.89 2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc1d5ee7-d0c6-4726-92b9-4bf52fa5c663")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ced3e094-89f4-4383-8124-9955b35a7dd9")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "80298489-1437-4fe1-a03b-a547231511f4")
+	)
+	(pad "3" thru_hole circle
+		(at -5.08 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a4947bac-0c08-4275-b48e-401a8ea50cee")
+	)
+	(pad "4" thru_hole circle
+		(at -7.62 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fd8e0856-0c97-45d2-87cb-f7d379fcd940")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\Lucas Spitzkopf\\Documents\\PCB-Library\\SamacSys_Parts.3dshapes\\22-29-2041.stp"
+		(offset
+			(xyz -3.809999886 0.01999999925 1.580000019)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
